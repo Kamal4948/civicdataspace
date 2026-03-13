@@ -6,6 +6,18 @@ A responsive civic dataset explorer built with **Next.js 14 App Router**, migrat
 > Add your deployed URL here after deploying to Vercel / Netlify / Render
 
 ---
+## Tech Stack
+
+| Layer       | Choice                          |
+|-------------|---------------------------------|
+| Framework   | Next.js 14 (App Router)         |
+| Language    | TypeScript                      |
+| Styling     | Tailwind CSS v3 + custom CSS    |
+| Animation   | Framer Motion                   |
+| Icons       | MUI Icons Material              |
+
+
+---
 
 ## Getting Started
 
