@@ -13,7 +13,7 @@ A responsive civic dataset explorer built with **Next.js 14 App Router**, migrat
 
 ```bash
 # 1. Clone and enter the project
-git clone <your-repo-url>
+git clone https://github.com/Kamal4948/civicdataspace
 cd civicdataspace
 
 # 2. Install dependencies
@@ -41,7 +41,7 @@ No API keys required — the endpoint is public.
 
 ---
 
-## Deployment (Vercel — recommended)
+## Deployment (Vercel)
 
 ```bash
 npm i -g vercel
@@ -50,5 +50,5 @@ vercel
 
 ## Submission
 
-- **Repo:** _add link_
-- **Live URL:** _add link_
+- **Repo:** `https://github.com/Kamal4948/civicdataspace`
+- **Live URL:** `https://civicdataspace.vercel.app/`
